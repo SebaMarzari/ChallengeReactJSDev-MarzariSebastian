@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "baseUrl": "src",
+    "downlevelIteration": true,
+    "target": "es5",
+    "esModuleInterop": true,
+  },
+  "files": ["src/index.tsx"],
+  "include": ["src/**/*"],
+  "exclude": ["src/**/*.test*"]
+}
